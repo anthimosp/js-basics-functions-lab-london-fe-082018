@@ -10,5 +10,7 @@ function distanceFromHqInFeet(blocks) {
 function distanceTravelledInFeet(start,finish) {
   return Math.abs(distanceFromHqInFeet(finish)-distanceFromHqInFeet(start));
   
-function 
+function calculatesFarePrice (start,finish) {
+  
+}
 }
